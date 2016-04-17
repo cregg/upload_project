@@ -9,9 +9,12 @@ Start application using `mvn spring-boot:run`
 Default Max File size if 512 kbs.
 
 Users available
-Login: admin Password: admin_password
-Login: user Password: password
-Login: user2 Password: user2
+
+| Login | Password      |Role   |
+|-------|---------------|-------|
+| admin | admin_password| ADMIN |
+| user  | password      | USER  |
+| user2 | password2     | USER  |
 
 
 I've disabled CSRF for this application mainly because it was an annoyance to test. Any production grade app should have it enabled. 
