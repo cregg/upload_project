@@ -1,8 +1,14 @@
 hello/FizzBuzz.class
 hello/Suit.class
 hello/CardDeck.class
+hello/File.class
 hello/FileUploadController.class
+hello/FileRepository.class
 hello/Palindrome.class
+hello/MvcConfig.class
+hello/WebSecurityConfig.class
 hello/Shoe.class
 hello/Card.class
 hello/Application.class
+hello/Setting.class
+hello/SettingRepository.class
