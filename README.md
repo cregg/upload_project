@@ -19,3 +19,7 @@ I've disabled CSRF for this application mainly because it was an annoyance to te
 Tests are located in src/test/java/hello
 
 The rest of the classes are in src/main/java/hello
+
+There's a working copy @ http://spring-boot-upload.herokuapp.com.
+
+All data is held in memory and will be removed upon application restart. 
